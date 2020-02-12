@@ -10,7 +10,7 @@
 1. Basic C++ Review
    * Vectors
    *  **findMin() function**: Gets a vector and returns its minimum element.
-   *  **findArgMin() function**: Gets a vector and return the index of its minimum elemnt.
+   *  **findArgMin() function**: Gets a vector and return the index of its minimum element.
    *  **findMinimum() function**: Gets a vector and gives its minimum element and its argmin together!
    *  **factorial() function**: Gets a number and returns its factorial in a simple way.
 1. Recursive Algorithms
