@@ -2,7 +2,7 @@
 #  AP 1398 TA 
 - [x] Session 1
 
-##  Session 1 - 23 Bahman 1398
+##  Session 1 - 23 Bahman 1398 - Wed 14 PM - 16 PM
 ### Topics
 
 1. Github 
@@ -21,3 +21,4 @@
 1. Matrix-Chain Multiplication Problem
    * Finding the minimum scalar multiplications needed for multiplying a chain of n matrices with dynamic programming. You can refer to
 [this](http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Dynamic/chainMatrixMult.htm) or the famous *CLRS algorithm book* for more information. We did this job with the **findMinOps() function**.
+1. HW1 Explained!
